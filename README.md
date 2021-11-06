@@ -1,5 +1,5 @@
 # Requisitos
- - PHP 8 (com as extensôes XML e mbstring)
+ - PHP 8 (com as extensões XML e mbstring)
  - Composer
 
 # Correr a aplicação
